@@ -1,5 +1,4 @@
-# Practica Caso Abogabot
-
+# Wireframe
 
 Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
 
@@ -16,8 +15,6 @@ Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sac
 * La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 * **Practicas**
   * [Toma de requerimientos](https://docs.google.com/document/d/194FxfBP4JPc4wckwUqMsODxGk-JnoyiB/edit)
-    * [BPM](https://lucid.app/documents/view/90069256-801b-4441-a7a9-2d519fbca859)
-    * [PlaneacionM](https://docs.google.com/document/d/194FxfBP4JPc4wckwUqMsODxGk-JnoyiB/edit?usp=sharing&ouid=115273834315981301146&rtpof=true&sd=true)
   * [Crea tu buyer persona](https://docs.google.com/document/d/11AUtf2tSjIlyAd-y3AdNzWb7gOTymz8T/edit)
   * [Publico objetivo](https://miro.com/app/board/uXjVOH7e8hk=/)
   * [Crea tu primer Wireframe UX](https://www.figma.com/file/IxIQPKEpWjE20Eqak7whWd/Abogabot?node-id=6%3A143)
